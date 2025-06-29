@@ -3,5 +3,5 @@ def hello_world() -> None:
     :rtype: None
     """
     print("Hello world!")
-    print("Hello signed comit")
+    print("Hello signed ")
     return None
